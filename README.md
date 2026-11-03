@@ -1,0 +1,2 @@
+# CotL Mod Manager
+
